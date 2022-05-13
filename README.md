@@ -3,6 +3,7 @@ So this is a programming language jam but it's not by the original creators of t
 There are no prices, however there will be voting for the winner.
 
 The jam theme is: **not yet announced.**
+
 Bonus street cred if you could also include the theme: **NOT YET ANNOUNCED**
 
 ## Getting started
