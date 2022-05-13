@@ -37,7 +37,7 @@ These are the judging parameters:
 * Language Creativity
 * Language Uniqueness
 
-The bonus street cred in the bonus theme may also be a 
+The bonus street cred in the bonus theme may also be a considering point.
 
 ## Help
 if you need any kind of help you can use the [discourd group](https://discord.gg/YxuJPVuyQ9)
