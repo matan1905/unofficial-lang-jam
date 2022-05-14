@@ -2,9 +2,9 @@
 So this is a programming language jam but it's not by the original creators of the [Original jam](https://github.com/langjam/langjam) so I call it unofficial.
 There are no prizes, however there will be voting for the winner.
 
-The jam theme is: **not yet announced.**
+The jam theme is: **It's not a bug, it's a feature**
 
-Bonus street cred if you could also include the theme: **NOT YET ANNOUNCED**
+Bonus street cred if you could also include the theme: **Common practice taken to the extreme**
 
 ## Getting started
 anyone can participate, if you or your team would like to add a submission:
@@ -24,13 +24,14 @@ To make everyone's life easier please include the following in your readme:
 	* documentation
 * Sample files written in your language (and what they do if it's a cryptic language)
 * Explanation of how it relates to the theme
+* Proper credit for all the team members that participated
 
 ## Timeline
-Starting: 14 May at 7:00 am UTC
+Starting: **14 May at 7:00 am UTC**
 
-Ending at: 21 May at 7:00 am UTC
+Ending at: **21 May at 7:00 am UTC**
 
-You can work on the language for as long as you want within that timeframe.
+You can work on the language for as long as you want within that timeframe. if you have multiple ideas you may submit multiple languages
 
 ## Judging
 The judging will be done by the community using some voting site
