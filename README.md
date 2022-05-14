@@ -20,7 +20,7 @@ Thanks to submodules magic, you could then keep working on your repo and when ti
 Your project repo should contain the language source
 To make everyone's life easier please include the following in your readme:
 * Full instructions on how to start writing in your language
-	* Build instructions - all tools must be included in a default linux installation or at most 3 steps (use Dockerfile for complex builds)
+	* Build instructions - make it short and reasonable, use Dockerfile for complex builds
 	* documentation
 * Sample files written in your language (and what they do if it's a cryptic language)
 * Explanation of how it relates to the theme
